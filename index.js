@@ -1,15 +1,15 @@
-function adds (a,b) {
+function add (a,b) {
   return a+b
 }
 
-function subtracts (a,b) {
+function subtract (a,b) {
   return a-b
 }
 
-function multiplies (a,b) {
+function multiplie (a,b) {
   return a*b
 }
 
-function divides (a,b) {
+function divide (a,b) {
   return a/b
 }
