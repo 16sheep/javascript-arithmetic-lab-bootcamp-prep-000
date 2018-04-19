@@ -1,8 +1,8 @@
-function add (a,b) {
+function adds (a,b) {
   return a+b
 }
 
-function subtract (a,b) {
+function subtracts (a,b) {
   return a-b
 }
 
